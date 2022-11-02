@@ -1,0 +1,47 @@
+
+
+users   >>>> admin  crud
+ doctors   crud patient
+
+ employee  cr doctors [paitent
+
+ patient   read profile
+
+
+==============================================
+
+1- build database
+      admin >> id name password
+      doctors >>  id name fieldId 
+      filed >> id name  
+      patient   >> id name doctorID
+
+    employee >> id name departmentID
+    deprtment >> 
+
+==================================
+2- build design 
+    1- crud doctor done
+    2- crud field  done
+    3- crud patient  done
+    4- crud employee
+    5- crud dapartment
+3- php backend
+
+====================
+4- authentecation   >> register login  done 
+
+5- authorization >> admin accsss all  >  done
+===============
+6- import and export database  done
+=================
+7- push on github
+
+
+
+
+
+
+
+
+
